@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1054449851017270}
+  m_IsPrefabAsset: 1
+--- !u!1 &1054449851017270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4170794078089314}
+  - component: {fileID: 114044431476284516}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4170794078089314
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1054449851017270}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1177.3556, y: -25.25727, z: 0}
+  m_LocalScale: {x: 12.5, y: 12.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114044431476284516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1054449851017270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38953f09e402fd8478679c15489bdc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemis:
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  - {fileID: 1871709787697366, guid: 651574ee5572e3248b93e8bf5ae7bafb, type: 2}
+  spawRate: 100
+  nextRespaw: 0

@@ -1,0 +1,2133 @@
+fileFormatVersion: 2
+guid: c7424d9b0f488094cbc1991bcb300a1a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: food_herb_plant_key_orb_craft-icons_0
+    21300002: food_herb_plant_key_orb_craft-icons_1
+    21300004: food_herb_plant_key_orb_craft-icons_2
+    21300006: food_herb_plant_key_orb_craft-icons_3
+    21300008: food_herb_plant_key_orb_craft-icons_4
+    21300010: food_herb_plant_key_orb_craft-icons_5
+    21300012: food_herb_plant_key_orb_craft-icons_6
+    21300014: food_herb_plant_key_orb_craft-icons_7
+    21300016: food_herb_plant_key_orb_craft-icons_8
+    21300018: food_herb_plant_key_orb_craft-icons_9
+    21300020: food_herb_plant_key_orb_craft-icons_10
+    21300022: food_herb_plant_key_orb_craft-icons_11
+    21300024: food_herb_plant_key_orb_craft-icons_12
+    21300026: food_herb_plant_key_orb_craft-icons_13
+    21300028: food_herb_plant_key_orb_craft-icons_14
+    21300030: food_herb_plant_key_orb_craft-icons_15
+    21300032: food_herb_plant_key_orb_craft-icons_16
+    21300034: food_herb_plant_key_orb_craft-icons_17
+    21300036: food_herb_plant_key_orb_craft-icons_18
+    21300038: food_herb_plant_key_orb_craft-icons_19
+    21300040: food_herb_plant_key_orb_craft-icons_20
+    21300042: food_herb_plant_key_orb_craft-icons_21
+    21300044: food_herb_plant_key_orb_craft-icons_22
+    21300046: food_herb_plant_key_orb_craft-icons_23
+    21300048: food_herb_plant_key_orb_craft-icons_24
+    21300050: food_herb_plant_key_orb_craft-icons_25
+    21300052: food_herb_plant_key_orb_craft-icons_26
+    21300054: food_herb_plant_key_orb_craft-icons_27
+    21300056: food_herb_plant_key_orb_craft-icons_28
+    21300058: food_herb_plant_key_orb_craft-icons_29
+    21300060: food_herb_plant_key_orb_craft-icons_30
+    21300062: food_herb_plant_key_orb_craft-icons_31
+    21300064: food_herb_plant_key_orb_craft-icons_32
+    21300066: food_herb_plant_key_orb_craft-icons_33
+    21300068: food_herb_plant_key_orb_craft-icons_34
+    21300070: food_herb_plant_key_orb_craft-icons_35
+    21300072: food_herb_plant_key_orb_craft-icons_36
+    21300074: food_herb_plant_key_orb_craft-icons_37
+    21300076: food_herb_plant_key_orb_craft-icons_38
+    21300078: food_herb_plant_key_orb_craft-icons_39
+    21300080: food_herb_plant_key_orb_craft-icons_40
+    21300082: food_herb_plant_key_orb_craft-icons_41
+    21300084: food_herb_plant_key_orb_craft-icons_42
+    21300086: food_herb_plant_key_orb_craft-icons_43
+    21300088: food_herb_plant_key_orb_craft-icons_44
+    21300090: food_herb_plant_key_orb_craft-icons_45
+    21300092: food_herb_plant_key_orb_craft-icons_46
+    21300094: food_herb_plant_key_orb_craft-icons_47
+    21300096: food_herb_plant_key_orb_craft-icons_48
+    21300098: food_herb_plant_key_orb_craft-icons_49
+    21300100: food_herb_plant_key_orb_craft-icons_50
+    21300102: food_herb_plant_key_orb_craft-icons_51
+    21300104: food_herb_plant_key_orb_craft-icons_52
+    21300106: food_herb_plant_key_orb_craft-icons_53
+    21300108: food_herb_plant_key_orb_craft-icons_54
+    21300110: food_herb_plant_key_orb_craft-icons_55
+    21300112: food_herb_plant_key_orb_craft-icons_56
+    21300114: food_herb_plant_key_orb_craft-icons_57
+    21300116: food_herb_plant_key_orb_craft-icons_58
+    21300118: food_herb_plant_key_orb_craft-icons_59
+    21300120: food_herb_plant_key_orb_craft-icons_60
+    21300122: food_herb_plant_key_orb_craft-icons_61
+    21300124: food_herb_plant_key_orb_craft-icons_62
+    21300126: food_herb_plant_key_orb_craft-icons_63
+    21300128: food_herb_plant_key_orb_craft-icons_64
+    21300130: food_herb_plant_key_orb_craft-icons_65
+    21300132: food_herb_plant_key_orb_craft-icons_66
+    21300134: food_herb_plant_key_orb_craft-icons_67
+    21300136: food_herb_plant_key_orb_craft-icons_68
+    21300138: food_herb_plant_key_orb_craft-icons_69
+    21300140: food_herb_plant_key_orb_craft-icons_70
+    21300142: food_herb_plant_key_orb_craft-icons_71
+    21300144: food_herb_plant_key_orb_craft-icons_72
+    21300146: food_herb_plant_key_orb_craft-icons_73
+    21300148: food_herb_plant_key_orb_craft-icons_74
+    21300150: food_herb_plant_key_orb_craft-icons_75
+    21300152: food_herb_plant_key_orb_craft-icons_76
+    21300154: food_herb_plant_key_orb_craft-icons_77
+    21300156: food_herb_plant_key_orb_craft-icons_78
+    21300158: food_herb_plant_key_orb_craft-icons_79
+    21300160: food_herb_plant_key_orb_craft-icons_80
+    21300162: food_herb_plant_key_orb_craft-icons_81
+    21300164: food_herb_plant_key_orb_craft-icons_82
+    21300166: food_herb_plant_key_orb_craft-icons_83
+    21300168: food_herb_plant_key_orb_craft-icons_84
+    21300170: food_herb_plant_key_orb_craft-icons_85
+    21300172: food_herb_plant_key_orb_craft-icons_86
+    21300174: food_herb_plant_key_orb_craft-icons_87
+    21300176: food_herb_plant_key_orb_craft-icons_88
+    21300178: food_herb_plant_key_orb_craft-icons_89
+    21300180: food_herb_plant_key_orb_craft-icons_90
+    21300182: food_herb_plant_key_orb_craft-icons_91
+    21300184: food_herb_plant_key_orb_craft-icons_92
+    21300186: food_herb_plant_key_orb_craft-icons_93
+    21300188: food_herb_plant_key_orb_craft-icons_94
+    21300190: food_herb_plant_key_orb_craft-icons_95
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c187873668a64d9f173db15580f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 228
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4038e8f4621e7f948bcc779fd36d7348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 229
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f2f51a7367a24299ad60fc71481b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 229
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16c6ad3ac11de47901d3917660b346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf348c13c2064e74aaa27a37e26ab31e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 229
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b79382ea3b0d84f9b82d0bf0da45df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 229
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e20effa7cb6b34d93b0d35e743a612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 228
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e462385f5380b4fb852b5bb5a40b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4406c56ee22b4fbd42815495a18a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 230
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684516da6dd6d0f4ca110d7ba31e2882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 229
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f312139c6876194f9eb338bf712a3c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f97b2a9f4995042938fbee0587f152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf8ff7e9f5f8d4d8d8f4cf7e950852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b3a1097b78a545ad96d401e8be17e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 198
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5ac0bb465b6d4a9a43280c69d3f1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 198
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5ab5e2a391904999429a5af0b6550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 197
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc92fbb6d14a8b4e87e400fac6d5ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 196
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb855801dff4215438d8a0ae279fc52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df3f1fb61f2084780984d1ddea07ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 196
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfeb7a4bb29c3e44b08be99777dd382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 197
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38b1ef6d7dc0243accf11ac98f4193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3a5214549cbc42994337e67c3dc51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f1d5e5ad83fa4e8fa01a89d20360c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 198
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fded802d22c90544ac1bc5151c1859d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b94ca7b0071d4c88c36ab70362b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 166
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f562167c8ef9ff46818dfd4f1bc6819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 167
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b577c54c1657945b72c560fa3751cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2c810a4e3f7f54783340153bf9f18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61cf7edec3d534ebec7dc3065afddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd22a9dc4dddc34ebfb5b2bbdf59463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76665135b7188a249a5e2402aed16684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 164
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5b89eca1ad5048928f93269a3fc2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 166
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae466550e8b0a2408e52467edc56c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 165
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab969819ff29fd743b364258d8bfdcd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 165
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f2fbe2ab445c41979ee9ab2c6ab9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 165
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf35d536036c394bbca5d6e5e2bb78b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56449eced3b440f4286b9fbf2ba8bf93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 134
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38deca958c7c66f4bb225e699cacf099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad05dd10ee2244198b179cb787e232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 133
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc96c07e1fdc548b5719710cacf995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c17ed8c7e001a4d8a5a4454083ad1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73749f55af06d1840afdf0c9d3818aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318aa2a6cb0c3b1498da90d7fad7c6fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1cb5ca65f82644b4fee53de900761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70c5806314a79940b84027808638cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4fac45fa3cda14dbb020776eeaafa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 133
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f38161f155f1d43b4c62c2feeb616f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 133
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023399bd09a688940bb860d840af2c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9679b7cdd5192a7459a97f652ec31dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb4bb159d42c894b8da314025776502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3cf3554125fd40b45eea92f6a3204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbaa424cb4b915439c7f43c06426e8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa616828e3d21d24291c4719762d4325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518107f00bf19742b275754fcbdde75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180837ab03c40f44da59abda2f74777d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c70d85d1eeff46b1318d9010d99cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 102
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491dd6efd31faf46b6142d558f91e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab336076e625f2147b03ebd721d6c40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 101
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f1e808dea1064ebab12e69232d27c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f851b5f66c1ebc4f82796c3534b346d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf53572c292214ba91e1ec1f9290f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 68
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d19deb7e519fb40917caa79c0f1abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22981a71d2c30c24fa72ca78f3519979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e5add044697b44aab667637a2c8d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def5a83a3c3ac14ab06054f3083c94f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70524f48840f5e4daea356f44107025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04288aacaaaf224fa32c4d85135cc79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_67
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 69
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54737bfa7e784ff45a4a96ad4f6ff70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e54e6dc48c02447a3846d1aaea129d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 70
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aedf7bf13be884fa935a0480329d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7897e49a547c09b43b0029c13369a5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1ebcde57db8d54b98de27e16d378f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b99f466a85ff3d4385813b1c0964131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99adb570eb4bd2149b1c6f9a475d97da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242270a04fee324f86251bfefb38c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804562e8e0222d4294ce4666ce27c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c6ac1389be514286140dca27efa0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfab38b6c25814282a1a9294e69ae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67959be1214aa45958b11337357b08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba50d7db6c779944a2b03915a4a0494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_80
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 37
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb5024a29bafb4ea3e3147565a4882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a91e0a526f8a54c87bce36ad901a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_82
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 40
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d22c57ac898d545a59405295b99a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_83
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 37
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93537b61211ec47a4193c3e00f4c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0571974fbbf0054bb1f548793b9e833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe380f0ac94d9478283e8038d8a950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_86
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c296268bd5fd6141a35888e1f3be5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09797b82023b611488cc9fbe03443285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1511294b20c5f740ab1c952aa5172b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a491838b8b06c34db7bb807aea4523b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0db9a484604c149a2cea7b0822c898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_91
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc5247877be8544b9ffe0e48aa8bb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a2b5e247c7f37458191b5503b49691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdddacdf7011874d97bf6481babe5dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_94
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbe32b3713d7346974559c2d6309bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_herb_plant_key_orb_craft-icons_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b023fa7109ef61342a844ca2c9ef9e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8324115b52c76ce43bb6458fa0cdbc02
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

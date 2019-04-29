@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: ad82b07a879b6594792c7dd745351d37
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firey_aura_sprite_sheet_by_supergamerx_0
+    21300002: firey_aura_sprite_sheet_by_supergamerx_1
+    21300004: firey_aura_sprite_sheet_by_supergamerx_2
+    21300006: firey_aura_sprite_sheet_by_supergamerx_3
+    21300008: firey_aura_sprite_sheet_by_supergamerx_4
+    21300010: firey_aura_sprite_sheet_by_supergamerx_5
+    21300012: firey_aura_sprite_sheet_by_supergamerx_6
+    21300014: firey_aura_sprite_sheet_by_supergamerx_7
+    21300016: firey_aura_sprite_sheet_by_supergamerx_8
+    21300018: firey_aura_sprite_sheet_by_supergamerx_9
+    21300020: firey_aura_sprite_sheet_by_supergamerx_10
+    21300022: firey_aura_sprite_sheet_by_supergamerx_11
+    21300024: firey_aura_sprite_sheet_by_supergamerx_12
+    21300026: firey_aura_sprite_sheet_by_supergamerx_13
+    21300028: firey_aura_sprite_sheet_by_supergamerx_14
+    21300030: firey_aura_sprite_sheet_by_supergamerx_15
+    21300032: firey_aura_sprite_sheet_by_supergamerx_16
+    21300034: firey_aura_sprite_sheet_by_supergamerx_17
+    21300036: firey_aura_sprite_sheet_by_supergamerx_18
+    21300038: firey_aura_sprite_sheet_by_supergamerx_19
+    21300040: firey_aura_sprite_sheet_by_supergamerx_20
+    21300042: firey_aura_sprite_sheet_by_supergamerx_21
+    21300044: firey_aura_sprite_sheet_by_supergamerx_22
+    21300046: firey_aura_sprite_sheet_by_supergamerx_23
+    21300048: firey_aura_sprite_sheet_by_supergamerx_24
+    21300050: firey_aura_sprite_sheet_by_supergamerx_25
+    21300052: firey_aura_sprite_sheet_by_supergamerx_26
+    21300054: firey_aura_sprite_sheet_by_supergamerx_27
+    21300056: firey_aura_sprite_sheet_by_supergamerx_28
+    21300058: firey_aura_sprite_sheet_by_supergamerx_29
+    21300060: firey_aura_sprite_sheet_by_supergamerx_30
+    21300062: firey_aura_sprite_sheet_by_supergamerx_31
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1091
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66704d9a1f1c8345a89e8c76174e0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1089
+        width: 169
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551396bb6162dde438fcbb0d5dec8f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1085
+        width: 171
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b06e109525b99f4892c8f0c462fab78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 941
+        width: 174
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea5b424c37b6324eb726e42d9972671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 938
+        width: 176
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6e78979963d34994ae900b71d3652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 936
+        width: 178
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12616d35de74a248855bb03a88cb384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 794
+        width: 169
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0b6612fbb56b45b1f6539550f91b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 787
+        width: 169
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3705a341badf74fbb92aa2cca8b37b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 921
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a7c1f60ee79f04a981e2979f1c0af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 787
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52d5f8f0d334a438d8a6fe0fdb6801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 642
+        width: 158
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8c44a7260ac64798f77c9d925dd80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 637
+        width: 157
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48c1de49873234381f98f146e9392f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 634
+        width: 159
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1744f4dbe4fe47a980cb2add71f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 161
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f34de12e436e45878f60bce056c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 483
+        width: 161
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850bcd2ab653b9c48a3a33ffce0f26e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 506
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237c1660925b2c47b069e5d8a9a0915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 607
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abf010cddcba043be257bf60a3dc9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 480
+        width: 157
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f13ecb452bc7343a2b1d7bb5ad522b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 327
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57ec53b91cef34890ba4a19d35c6d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 325
+        width: 157
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e53b0ec4d3b8478046237ae1c2edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 323
+        width: 156
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da505ac3cf8ff4d89ff40d8a4f2a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 348
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f21ae2eb31aa44a8874ae2e17dd7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_22
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 383
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67910f713b695145ae564c021207538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 278
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418db249bc1cc1e4eb6ae093957e0e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52749544567c5df4190be9abd4da1146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 247
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6a86ed5bff5141a7c4c7ed497917b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 254
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be8408645313654d8a027837e2516d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 170
+        width: 157
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6f1229c24ae74381ba530c5cdd936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 154
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906f22872e48ea4c84d38c46694a7a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 195
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf24873ee414ac142915bb226483ad20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 179
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34cca9aa645d234db4543aab530726b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firey_aura_sprite_sheet_by_supergamerx_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 179
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b367deb36b88845a1de2a9a184af4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b912c4b7f23fc1d4492fb9bd85d9f6c9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

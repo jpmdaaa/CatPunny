@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 2e2ae601ad41c844886fcc1be405297f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player-running-spritesheet9x81_0
+    21300002: player-running-spritesheet9x81_1
+    21300004: player-running-spritesheet9x81_2
+    21300006: player-running-spritesheet9x81_3
+    21300008: player-running-spritesheet9x81_4
+    21300010: player-running-spritesheet9x81_5
+    21300012: player-running-spritesheet9x81_6
+    21300014: player-running-spritesheet9x81_7
+    21300016: player-running-spritesheet9x81_8
+    21300018: player-running-spritesheet9x81_9
+    21300020: player-running-spritesheet9x81_10
+    21300022: player-running-spritesheet9x81_11
+    21300024: player-running-spritesheet9x81_12
+    21300026: player-running-spritesheet9x81_13
+    21300028: player-running-spritesheet9x81_14
+    21300030: player-running-spritesheet9x81_15
+    21300032: player-running-spritesheet9x81_16
+    21300034: player-running-spritesheet9x81_17
+    21300036: player-running-spritesheet9x81_18
+    21300038: player-running-spritesheet9x81_19
+    21300040: player-running-spritesheet9x81_20
+    21300042: player-running-spritesheet9x81_21
+    21300044: player-running-spritesheet9x81_22
+    21300046: player-running-spritesheet9x81_23
+    21300048: player-running-spritesheet9x81_24
+    21300050: player-running-spritesheet9x81_25
+    21300052: player-running-spritesheet9x81_26
+    21300054: player-running-spritesheet9x81_27
+    21300056: player-running-spritesheet9x81_28
+    21300058: player-running-spritesheet9x81_29
+    21300060: player-running-spritesheet9x81_30
+    21300062: player-running-spritesheet9x81_31
+    21300064: player-running-spritesheet9x81_32
+    21300066: player-running-spritesheet9x81_33
+    21300068: player-running-spritesheet9x81_34
+    21300070: player-running-spritesheet9x81_35
+    21300072: player-running-spritesheet9x81_36
+    21300074: player-running-spritesheet9x81_37
+    21300076: player-running-spritesheet9x81_38
+    21300078: player-running-spritesheet9x81_39
+    21300080: player-running-spritesheet9x81_40
+    21300082: player-running-spritesheet9x81_41
+    21300084: player-running-spritesheet9x81_42
+    21300086: player-running-spritesheet9x81_43
+    21300088: player-running-spritesheet9x81_44
+    21300090: player-running-spritesheet9x81_45
+    21300092: player-running-spritesheet9x81_46
+    21300094: player-running-spritesheet9x81_47
+    21300096: player-running-spritesheet9x81_48
+    21300098: player-running-spritesheet9x81_49
+    21300100: player-running-spritesheet9x81_50
+    21300102: player-running-spritesheet9x81_51
+    21300104: player-running-spritesheet9x81_52
+    21300106: player-running-spritesheet9x81_53
+    21300108: player-running-spritesheet9x81_54
+    21300110: player-running-spritesheet9x81_55
+    21300112: player-running-spritesheet9x81_56
+    21300114: player-running-spritesheet9x81_57
+    21300116: player-running-spritesheet9x81_58
+    21300118: player-running-spritesheet9x81_59
+    21300120: player-running-spritesheet9x81_60
+    21300122: player-running-spritesheet9x81_61
+    21300124: player-running-spritesheet9x81_62
+    21300126: player-running-spritesheet9x81_63
+    21300128: player-running-spritesheet9x81_64
+    21300130: player-running-spritesheet9x81_65
+    21300132: player-running-spritesheet9x81_66
+    21300134: player-running-spritesheet9x81_67
+    21300136: player-running-spritesheet9x81_68
+    21300138: player-running-spritesheet9x81_69
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2383
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2382
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2382
+        width: 141
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2382
+        width: 136
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2382
+        width: 138
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2382
+        width: 139
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2382
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_7
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2382
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_8
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2382
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2042
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2042
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2043
+        width: 141
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2043
+        width: 136
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_13
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2045
+        width: 138
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2046
+        width: 139
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2049
+        width: 137
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_16
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2051
+        width: 137
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_17
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2054
+        width: 137
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1718
+        width: 137
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1722
+        width: 137
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1722
+        width: 141
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1718
+        width: 136
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_22
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1717
+        width: 138
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1714
+        width: 139
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_24
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1711
+        width: 137
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_25
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1710
+        width: 137
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1710
+        width: 137
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1369
+        width: 137
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1366
+        width: 137
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1365
+        width: 141
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1365
+        width: 136
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1363
+        width: 138
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1363
+        width: 139
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_33
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1363
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_34
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1363
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_35
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1363
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1023
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1023
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1023
+        width: 141
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1023
+        width: 136
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_40
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1022
+        width: 138
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_41
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1022
+        width: 139
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_42
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1022
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_43
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1022
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_44
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1022
+        width: 137
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 683
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 683
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_47
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 685
+        width: 141
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_48
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 686
+        width: 136
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_49
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 686
+        width: 138
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_50
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 686
+        width: 139
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_51
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 687
+        width: 137
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_52
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 687
+        width: 137
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_53
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 687
+        width: 137
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 347
+        width: 137
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 137
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_56
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 353
+        width: 141
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 354
+        width: 136
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_58
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 358
+        width: 138
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 361
+        width: 139
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_60
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 362
+        width: 137
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_61
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 358
+        width: 137
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_62
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 354
+        width: 137
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 137
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 137
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_65
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 7
+        width: 141
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 6
+        width: 136
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_67
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 5
+        width: 138
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_68
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3
+        width: 139
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-running-spritesheet9x81_69
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3
+        width: 137
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

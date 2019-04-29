@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: a8e7d9b477050c04497e7487e9e80de8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_0
+    21300002: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_1
+    21300004: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_2
+    21300006: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_3
+    21300008: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_4
+    21300010: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_5
+    21300012: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_6
+    21300014: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_7
+    21300016: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_8
+    21300018: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_9
+    21300020: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_10
+    21300022: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_11
+    21300024: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_12
+    21300026: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_13
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 574
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b816b633e23e447a4889154d219876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 591
+        width: 216
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dba404b92757c4aacc89b130dbc694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 582
+        width: 214
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d484c06717c6478db4a521e3e903a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 577
+        width: 215
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81d325d48c1ac4abfd07f15179c7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 201
+        width: 243
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c1d4846f7add4da01c206815afb73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 382
+        width: 216
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61f2f4bfe890c469907dd1e579ba86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 385
+        width: 220
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e2fe794f039e44cb04869df76c3be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 388
+        width: 223
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4279e0700629434b9ad448668adbd60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 203
+        width: 251
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd33ea69794b843aedafaa1f71c3ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 204
+        width: 254
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6fbe7a55fc05b4bac42b4a192cb950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 196
+        width: 243
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f41c421dcc502469471437226e6da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 237
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03472f892572da648a606fd12a18df2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 13
+        width: 223
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13808b368a94bca42bf2d83181de9c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_sprite_sheet__the_dudeicorn__by_lostchild14000-d8kqvrr_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 11
+        width: 217
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d32683dca5a9c84cb57289a1c32f3e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4ac6934fbe316664983c78fc66f1b755
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

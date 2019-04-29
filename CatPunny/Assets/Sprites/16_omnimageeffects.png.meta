@@ -1,0 +1,3885 @@
+fileFormatVersion: 2
+guid: 9b1c278bb27d18d41b6942a84ed91627
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 16_omnimageeffects_0
+    21300002: 16_omnimageeffects_1
+    21300004: 16_omnimageeffects_2
+    21300006: 16_omnimageeffects_3
+    21300008: 16_omnimageeffects_4
+    21300010: 16_omnimageeffects_5
+    21300012: 16_omnimageeffects_6
+    21300014: 16_omnimageeffects_7
+    21300016: 16_omnimageeffects_8
+    21300018: 16_omnimageeffects_9
+    21300020: 16_omnimageeffects_10
+    21300022: 16_omnimageeffects_11
+    21300024: 16_omnimageeffects_12
+    21300026: 16_omnimageeffects_13
+    21300028: 16_omnimageeffects_14
+    21300030: 16_omnimageeffects_15
+    21300032: 16_omnimageeffects_16
+    21300034: 16_omnimageeffects_17
+    21300036: 16_omnimageeffects_18
+    21300038: 16_omnimageeffects_19
+    21300040: 16_omnimageeffects_20
+    21300042: 16_omnimageeffects_21
+    21300044: 16_omnimageeffects_22
+    21300046: 16_omnimageeffects_23
+    21300048: 16_omnimageeffects_24
+    21300050: 16_omnimageeffects_25
+    21300052: 16_omnimageeffects_26
+    21300054: 16_omnimageeffects_27
+    21300056: 16_omnimageeffects_28
+    21300058: 16_omnimageeffects_29
+    21300060: 16_omnimageeffects_30
+    21300062: 16_omnimageeffects_31
+    21300064: 16_omnimageeffects_32
+    21300066: 16_omnimageeffects_33
+    21300068: 16_omnimageeffects_34
+    21300070: 16_omnimageeffects_35
+    21300072: 16_omnimageeffects_36
+    21300074: 16_omnimageeffects_37
+    21300076: 16_omnimageeffects_38
+    21300078: 16_omnimageeffects_39
+    21300080: 16_omnimageeffects_40
+    21300082: 16_omnimageeffects_41
+    21300084: 16_omnimageeffects_42
+    21300086: 16_omnimageeffects_43
+    21300088: 16_omnimageeffects_44
+    21300090: 16_omnimageeffects_45
+    21300092: 16_omnimageeffects_46
+    21300094: 16_omnimageeffects_47
+    21300096: 16_omnimageeffects_48
+    21300098: 16_omnimageeffects_49
+    21300100: 16_omnimageeffects_50
+    21300102: 16_omnimageeffects_51
+    21300104: 16_omnimageeffects_52
+    21300106: 16_omnimageeffects_53
+    21300108: 16_omnimageeffects_54
+    21300110: 16_omnimageeffects_55
+    21300112: 16_omnimageeffects_56
+    21300114: 16_omnimageeffects_57
+    21300116: 16_omnimageeffects_58
+    21300118: 16_omnimageeffects_59
+    21300120: 16_omnimageeffects_60
+    21300122: 16_omnimageeffects_61
+    21300124: 16_omnimageeffects_62
+    21300126: 16_omnimageeffects_63
+    21300128: 16_omnimageeffects_64
+    21300130: 16_omnimageeffects_65
+    21300132: 16_omnimageeffects_66
+    21300134: 16_omnimageeffects_67
+    21300136: 16_omnimageeffects_68
+    21300138: 16_omnimageeffects_69
+    21300140: 16_omnimageeffects_70
+    21300142: 16_omnimageeffects_71
+    21300144: 16_omnimageeffects_72
+    21300146: 16_omnimageeffects_73
+    21300148: 16_omnimageeffects_74
+    21300150: 16_omnimageeffects_75
+    21300152: 16_omnimageeffects_76
+    21300154: 16_omnimageeffects_77
+    21300156: 16_omnimageeffects_78
+    21300158: 16_omnimageeffects_79
+    21300160: 16_omnimageeffects_80
+    21300162: 16_omnimageeffects_81
+    21300164: 16_omnimageeffects_82
+    21300166: 16_omnimageeffects_83
+    21300168: 16_omnimageeffects_84
+    21300170: 16_omnimageeffects_85
+    21300172: 16_omnimageeffects_86
+    21300174: 16_omnimageeffects_87
+    21300176: 16_omnimageeffects_88
+    21300178: 16_omnimageeffects_89
+    21300180: 16_omnimageeffects_90
+    21300182: 16_omnimageeffects_91
+    21300184: 16_omnimageeffects_92
+    21300186: 16_omnimageeffects_93
+    21300188: 16_omnimageeffects_94
+    21300190: 16_omnimageeffects_95
+    21300192: 16_omnimageeffects_96
+    21300194: 16_omnimageeffects_97
+    21300196: 16_omnimageeffects_98
+    21300198: 16_omnimageeffects_99
+    21300200: 16_omnimageeffects_100
+    21300202: 16_omnimageeffects_101
+    21300204: 16_omnimageeffects_102
+    21300206: 16_omnimageeffects_103
+    21300208: 16_omnimageeffects_104
+    21300210: 16_omnimageeffects_105
+    21300212: 16_omnimageeffects_106
+    21300214: 16_omnimageeffects_107
+    21300216: 16_omnimageeffects_108
+    21300218: 16_omnimageeffects_109
+    21300220: 16_omnimageeffects_110
+    21300222: 16_omnimageeffects_111
+    21300224: 16_omnimageeffects_112
+    21300226: 16_omnimageeffects_113
+    21300228: 16_omnimageeffects_114
+    21300230: 16_omnimageeffects_115
+    21300232: 16_omnimageeffects_116
+    21300234: 16_omnimageeffects_117
+    21300236: 16_omnimageeffects_118
+    21300238: 16_omnimageeffects_119
+    21300240: 16_omnimageeffects_120
+    21300242: 16_omnimageeffects_121
+    21300244: 16_omnimageeffects_122
+    21300246: 16_omnimageeffects_123
+    21300248: 16_omnimageeffects_124
+    21300250: 16_omnimageeffects_125
+    21300252: 16_omnimageeffects_126
+    21300254: 16_omnimageeffects_127
+    21300256: 16_omnimageeffects_128
+    21300258: 16_omnimageeffects_129
+    21300260: 16_omnimageeffects_130
+    21300262: 16_omnimageeffects_131
+    21300264: 16_omnimageeffects_132
+    21300266: 16_omnimageeffects_133
+    21300268: 16_omnimageeffects_134
+    21300270: 16_omnimageeffects_135
+    21300272: 16_omnimageeffects_136
+    21300274: 16_omnimageeffects_137
+    21300276: 16_omnimageeffects_138
+    21300278: 16_omnimageeffects_139
+    21300280: 16_omnimageeffects_140
+    21300282: 16_omnimageeffects_141
+    21300284: 16_omnimageeffects_142
+    21300286: 16_omnimageeffects_143
+    21300288: 16_omnimageeffects_144
+    21300290: 16_omnimageeffects_145
+    21300292: 16_omnimageeffects_146
+    21300294: 16_omnimageeffects_147
+    21300296: 16_omnimageeffects_148
+    21300298: 16_omnimageeffects_149
+    21300300: 16_omnimageeffects_150
+    21300302: 16_omnimageeffects_151
+    21300304: 16_omnimageeffects_152
+    21300306: 16_omnimageeffects_153
+    21300308: 16_omnimageeffects_154
+    21300310: 16_omnimageeffects_155
+    21300312: 16_omnimageeffects_156
+    21300314: 16_omnimageeffects_157
+    21300316: 16_omnimageeffects_158
+    21300318: 16_omnimageeffects_159
+    21300320: 16_omnimageeffects_160
+    21300322: 16_omnimageeffects_161
+    21300324: 16_omnimageeffects_162
+    21300326: 16_omnimageeffects_163
+    21300328: 16_omnimageeffects_164
+    21300330: 16_omnimageeffects_165
+    21300332: 16_omnimageeffects_166
+    21300334: 16_omnimageeffects_167
+    21300336: 16_omnimageeffects_168
+    21300338: 16_omnimageeffects_169
+    21300340: 16_omnimageeffects_170
+    21300342: 16_omnimageeffects_171
+    21300344: 16_omnimageeffects_172
+    21300346: 16_omnimageeffects_173
+    21300348: 16_omnimageeffects_174
+    21300350: 16_omnimageeffects_175
+    21300352: 16_omnimageeffects_176
+    21300354: 16_omnimageeffects_177
+    21300356: 16_omnimageeffects_178
+    21300358: 16_omnimageeffects_179
+    21300360: 16_omnimageeffects_180
+    21300362: 16_omnimageeffects_181
+    21300364: 16_omnimageeffects_182
+    21300366: 16_omnimageeffects_183
+    21300368: 16_omnimageeffects_184
+    21300370: 16_omnimageeffects_185
+    21300372: 16_omnimageeffects_186
+    21300374: 16_omnimageeffects_187
+    21300376: 16_omnimageeffects_188
+    21300378: 16_omnimageeffects_189
+    21300380: 16_omnimageeffects_190
+    21300382: 16_omnimageeffects_191
+    21300384: 16_omnimageeffects_192
+    21300386: 16_omnimageeffects_193
+    21300388: 16_omnimageeffects_194
+    21300390: 16_omnimageeffects_195
+    21300392: 16_omnimageeffects_196
+    21300394: 16_omnimageeffects_197
+    21300396: 16_omnimageeffects_198
+    21300398: 16_omnimageeffects_199
+    21300400: 16_omnimageeffects_200
+    21300402: 16_omnimageeffects_201
+    21300404: 16_omnimageeffects_202
+    21300406: 16_omnimageeffects_203
+    21300408: 16_omnimageeffects_204
+    21300410: 16_omnimageeffects_205
+    21300412: 16_omnimageeffects_206
+    21300414: 16_omnimageeffects_207
+    21300416: 16_omnimageeffects_208
+    21300418: 16_omnimageeffects_209
+    21300420: 16_omnimageeffects_210
+    21300422: 16_omnimageeffects_211
+    21300424: 16_omnimageeffects_212
+    21300426: 16_omnimageeffects_213
+    21300428: 16_omnimageeffects_214
+    21300430: 16_omnimageeffects_215
+    21300432: 16_omnimageeffects_216
+    21300434: 16_omnimageeffects_217
+    21300436: 16_omnimageeffects_218
+    21300438: 16_omnimageeffects_219
+    21300440: 16_omnimageeffects_220
+    21300442: 16_omnimageeffects_221
+    21300444: 16_omnimageeffects_222
+    21300446: 16_omnimageeffects_223
+    21300448: 16_omnimageeffects_224
+    21300450: 16_omnimageeffects_225
+    21300452: 16_omnimageeffects_226
+    21300454: 16_omnimageeffects_227
+    21300456: 16_omnimageeffects_228
+    21300458: 16_omnimageeffects_229
+    21300460: 16_omnimageeffects_230
+    21300462: 16_omnimageeffects_231
+    21300464: 16_omnimageeffects_232
+    21300466: 16_omnimageeffects_233
+    21300468: 16_omnimageeffects_234
+    21300470: 16_omnimageeffects_235
+    21300472: 16_omnimageeffects_236
+    21300474: 16_omnimageeffects_237
+    21300476: 16_omnimageeffects_238
+    21300478: 16_omnimageeffects_239
+    21300480: 16_omnimageeffects_240
+    21300482: 16_omnimageeffects_241
+    21300484: 16_omnimageeffects_242
+    21300486: 16_omnimageeffects_243
+    21300488: 16_omnimageeffects_244
+    21300490: 16_omnimageeffects_245
+    21300492: 16_omnimageeffects_246
+    21300494: 16_omnimageeffects_247
+    21300496: 16_omnimageeffects_248
+    21300498: 16_omnimageeffects_249
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16_omnimageeffects_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 768
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 726
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 704
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_39
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_42
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_45
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 784
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 681
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 679
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_64
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_65
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_68
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_71
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_72
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_73
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 678
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 676
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 674
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 687
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 682
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 679
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_81
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 679
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 679
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_83
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 679
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 611
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_85
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 611
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_86
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 611
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_87
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 611
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_88
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 611
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_90
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 585
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_91
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 611
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_94
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 603
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_98
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_99
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 570
+        width: 110
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_100
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_101
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_102
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_103
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_104
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_105
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_106
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_107
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_109
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 570
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_110
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_111
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_112
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_113
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_114
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 576
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_117
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 576
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_118
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 576
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_119
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 574
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_120
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 497
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_124
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_126
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_127
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_128
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_129
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_130
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_131
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_133
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_135
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_136
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_138
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_139
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_140
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 543
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_141
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_142
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_143
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_144
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_145
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 541
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_146
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_147
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_148
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_149
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_150
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_152
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 506
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_153
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 543
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_154
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 541
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_155
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 541
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_156
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 541
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_157
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 515
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_158
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 523
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_159
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 489
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 489
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_163
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 489
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_164
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 489
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 466
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_166
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 466
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_167
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 466
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_168
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 466
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_169
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 477
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 458
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_171
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 458
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 458
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_173
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 458
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_174
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 458
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_175
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 458
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 430
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_177
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 427
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_178
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 427
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_179
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 439
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_180
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 440
+        width: 98
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_181
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_183
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_184
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_185
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_187
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_188
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_189
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_190
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_191
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_192
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_193
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_194
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_195
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_196
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_197
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_198
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_199
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_200
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_201
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_202
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_203
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_204
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 338
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_205
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 338
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_206
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 337
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_207
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_208
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 346
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_209
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 337
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_210
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 334
+        width: 16
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_211
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_212
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_214
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_215
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_216
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_217
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_218
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_219
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_220
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_221
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_222
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 326
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_223
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_224
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 301
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_225
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 301
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_226
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_227
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_228
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_229
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_230
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_231
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_232
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_233
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_234
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_235
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_236
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_237
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_238
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_239
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 190
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_240
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 190
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_241
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 190
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_243
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 182
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_244
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 182
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_245
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 182
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_246
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 24
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_247
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 24
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_248
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 16
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16_omnimageeffects_249
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 8
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
