@@ -270,7 +270,7 @@ public class Player : MonoBehaviour {
         {
 
             {
-                if (touch.position.x > 369 && touch.position.y < 600)
+                if (touch.position.x > 360 && touch.position.y < 500)
                 {
 
                     playerSprite.flipX = flipX;
@@ -281,7 +281,7 @@ public class Player : MonoBehaviour {
 
                 }
 
-                if (touch.position.x < 369 && touch.position.y < 600)
+                if (touch.position.x < 360 && touch.position.y < 500)
                 {
 
                     playerSprite.flipX = !flipX;
@@ -296,7 +296,7 @@ public class Player : MonoBehaviour {
 
             }
 
-            if (touch.position.y >= 600 && estaNoChao)
+            if (touch.position.y >= 500 && estaNoChao)
             {
 
                 estaNoChao = false;
