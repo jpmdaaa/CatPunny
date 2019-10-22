@@ -38,24 +38,22 @@ public class ADSButton : MonoBehaviour, IPointerDownHandler
         }
         if (pressing)
         {
-           
-   
-                if (Advertisement.IsReady("rewardedVideo"))
-                {
-                    Advertisement.Show("rewardedVideo");
-                player.life += 1;
+            /*
 
-            }
-           
-           
-            
-            pressing = false;
+                 if (Advertisement.IsReady("rewardedVideo"))
+                 {
+                     Advertisement.Show("rewardedVideo");
+                 player.life += 1;
 
+             }
+
+
+
+             pressing = false;
+*/
         }
 
     }
 
 
-
-
-}
+    }

@@ -15,6 +15,7 @@ TagManager:
   - Chest
   - MaximoPlataformaMovel
   - MinimoPlataformaMovel
+  - Saw
   layers:
   - Default
   - TransparentFX

@@ -7,25 +7,26 @@ public class AdManager : MonoBehaviour {
     
     void Start()
     {
-        if (Advertisement.IsReady("video"))
-        {
-            Advertisement.Show("video");
-        }
+        /*
+         if (Advertisement.IsReady("video"))
+         {
+             Advertisement.Show("video");
+         }
+         */
+   }
 
-    }
+   void Update () {
 
-    void Update () {
-		 
-        
-            /*
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            if (Advertisement.IsReady("rewardedVideo"))
-            {
-                Advertisement.Show("rewardedVideo");
-            }
-        }
-        */
+
+           /*
+       if (Input.GetKeyDown(KeyCode.R))
+       {
+           if (Advertisement.IsReady("rewardedVideo"))
+           {
+               Advertisement.Show("rewardedVideo");
+           }
+       }
+       */
 
     }
 }

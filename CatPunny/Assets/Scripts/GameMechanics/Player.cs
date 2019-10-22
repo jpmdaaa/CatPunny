@@ -27,7 +27,7 @@ public class Player : MonoBehaviour {
     public bool flipX;
     public static int money;
     private float timerdoor1;
-    public Text aceller;
+    //public Text aceller;
     public float Acell;
     //public GameObject gameover;
     public GameObject Canvasplayer;
@@ -48,7 +48,10 @@ public class Player : MonoBehaviour {
     public LayerMask Solid;
     private string direction;
     public ButtonPause pause;
-  
+    public GameObject Camera;
+
+
+    private SpriteRenderer spriteRender;
 
     [Header("Powers")]
     //powers
@@ -66,7 +69,7 @@ public class Player : MonoBehaviour {
     public bool update2;
     public bool update3;
     public bool update4;
-
+    private bool poweractive;
     [Header("UI")]
     public Player KATPLAYER;
     public GameObject coin;
@@ -89,7 +92,7 @@ public class Player : MonoBehaviour {
         life = 3;
         estaVivo = true;
         estaparado = true;
-       
+        spriteRender = GetComponent<SpriteRenderer>();
         sound = FindObjectOfType(typeof(SoundEffect)) as SoundEffect;
         colisor = GetComponent<BoxCollider2D>();
         timer = 0;
@@ -147,19 +150,21 @@ public class Player : MonoBehaviour {
             Points.points = 0;
             estaVivo = false;
         
-            plataform.SetActive(false);
-            
-
             if(timer>100)
             {
+                Camera.SetActive(false);
+                spriteRender.enabled = false;
+                plataform.SetActive(false);
+                desactivePowers();
                 Gameover.SetActive(true);
+              
+
             }
             if (timer > 300)
             {
                
                 lifeUI.SetActive(false);
                
-    
                     SceneManager.LoadScene(1);
 
 
@@ -345,58 +350,61 @@ public class Player : MonoBehaviour {
     }
      void Powers()
      {
+      
         if (poderaleatorio <= 30 && poderaleatorio > 0)
         {
             timerpower += 1.0f;
             power2.SetActive(true);
 
-
-
             imortality = true;
-
+            poweractive = true;
         }
 
-        if (poderaleatorio > 30 && poderaleatorio <= 80)
+        if (poderaleatorio > 30 && poderaleatorio <= 100)
         {
             raio.SetActive(true);
             velocidade = 3;
             timerpower += 0.5f;
-
+            poweractive = true;
         }
-
+        /*
         if (poderaleatorio > 80)
         {
-            /*
+            
             angel.SetActive(true);
             timerpower += 1.5f;
             estaVoando = true;
             rb.gravityScale = 0.5f;
 
             Fire.SetActive(true);
-                */
-        }
-
+              
+         }
+      */
 
 
 
         if (timerpower > 500)
         {
 
-            power2.SetActive(false);
-            velocidade = velocidadei;
-            raio.SetActive(false);
-            angel.SetActive(false);
-            Fire.SetActive(false);
-            fire = false;
-            imortality = false;
-
-            estaVoando = false;
-            timerpower = 0;
-            poderaleatorio = 0;
-            rb.gravityScale = 1;
-            PowerBar.SetActive(false);
+            desactivePowers();
         }
 
+    }
+     void desactivePowers()
+    {
+        power2.SetActive(false);
+        velocidade = velocidadei;
+        raio.SetActive(false);
+        angel.SetActive(false);
+        Fire.SetActive(false);
+        fire = false;
+        imortality = false;
+        poweractive = false;
+        estaVoando = false;
+        timerpower = 0;
+        poderaleatorio = 0;
+        rb.gravityScale = 1;
+        PowerBar.SetActive(false);
     }
      void ProgressaoDificuldade()
       {
@@ -468,7 +476,32 @@ public class Player : MonoBehaviour {
         }
 
     }
-    
+    void ReturnChekpoint()
+    {
+
+        if (transform.position.x > Chekpoints[0].transform.position.x && transform.position.x < Chekpoints[1].transform.position.x)
+        {
+            transform.position = new Vector3(Chekpoints[0].transform.position.x, Chekpoints[0].transform.position.y, -2);
+        }
+
+
+        if (transform.position.x > Chekpoints[1].transform.position.x && transform.position.x < Chekpoints[2].transform.position.x)
+        {
+            transform.position = new Vector3(Chekpoints[1].transform.position.x, Chekpoints[1].transform.position.y, -2);
+        }
+
+
+
+        if (transform.position.x > Chekpoints[2].transform.position.x && transform.position.x < Chekpoints[3].transform.position.x)
+        {
+            transform.position = new Vector3(Chekpoints[2].transform.position.x, Chekpoints[2].transform.position.y, -2);
+        }
+
+        if (transform.position.x > Chekpoints[3].transform.position.x)
+        {
+            transform.position = new Vector3(Chekpoints[3].transform.position.x, Chekpoints[3].transform.position.y, -2);
+        }
+    }
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
@@ -488,6 +521,7 @@ public class Player : MonoBehaviour {
             Destroy(collision.gameObject);
         }
     }
+  
 
     void OnCollisionEnter2D(Collision2D colisao)
     {
@@ -497,30 +531,8 @@ public class Player : MonoBehaviour {
             if(!fire)
             {
                 life -= 1;
+                ReturnChekpoint();
 
-
-                if (transform.position.x > Chekpoints[0].transform.position.x && transform.position.x < Chekpoints[1].transform.position.x)
-                {
-                    transform.position = new Vector3(Chekpoints[0].transform.position.x, Chekpoints[0].transform.position.y, -2);
-                }
-
-
-                if (transform.position.x > Chekpoints[1].transform.position.x && transform.position.x < Chekpoints[2].transform.position.x)
-                {
-                    transform.position = new Vector3(Chekpoints[1].transform.position.x, Chekpoints[1].transform.position.y, -2);
-                }
-
-
-
-                if (transform.position.x > Chekpoints[2].transform.position.x && transform.position.x < Chekpoints[3].transform.position.x)
-                {
-                    transform.position = new Vector3(Chekpoints[2].transform.position.x, Chekpoints[2].transform.position.y, -2);
-                }
-
-                if (transform.position.x > Chekpoints[3].transform.position.x)
-                {
-                    transform.position = new Vector3(Chekpoints[3].transform.position.x, Chekpoints[3].transform.position.y, -2);
-                }
                 sound.MakecolidSound();
             }
             else if(fire)
@@ -557,10 +569,11 @@ public class Player : MonoBehaviour {
         {
              sound.MakecolidSound();
              Destroy(colisao.gameObject);
-              if(!fire)
+              if(!fire && !imortality )
               {
                 life -= 1;
-              }       
+                ReturnChekpoint();
+            }       
             
  
         }
@@ -572,6 +585,7 @@ public class Player : MonoBehaviour {
             {
                 sound.MakecolidSound();
                 life -= 1;
+                ReturnChekpoint();
 
             }
 
@@ -606,22 +620,27 @@ public class Player : MonoBehaviour {
         if (colisao.gameObject.tag == ("Door"))
         {
             gameObject.transform.position = Chekpoints[0].transform.position;
-            Points.points += 100;
+            Points.points += 10;
             velocidade = velocidade * 1.25f;
             
         
         }
 
-        if (colisao.gameObject.tag == ("Chest"))
+        if (colisao.gameObject.tag == ("Chest") )
         {
             Destroy(colisao.gameObject);
             sound.MakepointSound();
-            poderaleatorio = Random.Range(1, 100);
             timerpower = 0;
-            PowerBar.SetActive(true);
-            
-            //bau.SetBool("abrir", true);
-           
+            if (!poweractive)
+            {
+                poderaleatorio = Random.Range(1, 100);
+               
+                PowerBar.SetActive(true);
+
+                //bau.SetBool("abrir", true);
+            }
+
+
         }
 
     }
